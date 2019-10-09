@@ -1,34 +1,34 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Fira+Sans&display=swap');
-
-
-
 body {
-  background-color: LightCyan;
+	background-color: LightCyan;
 }
+
 h1 {
-  color: DarkSlateGrey;
+	color: DarkSlateGrey;
 }
+
 h2 {
-  color: LightSeaGreen;
+	color: LightSeaGreen;
 }
+
 h3 {
-  color: LightSlateGrey;
+	color: LightSlateGrey;
 }
+
 h4 {
-  color: SlateGrey;
+	color: SlateGrey;
 }
 
 p {
-  color: black;
-  font-family: "Bookman Old Style";
-  margin: 0.5%;
+	color: black;
+	font-family: "Bookman Old Style";
+	margin: 0.5%;
 }
 
 li {
 	font-family: 'Fira Sans', sans-serif;
 }
-
 
 h1,
 h2,
@@ -46,28 +46,31 @@ em {
 	color: black;
 }
 
-
-
-.resume p,h1,h2,h3,h4,ul {
-    text-align: center;
-	
+.resume p,
+h1,
+h2,
+h3,
+h4,
+ul {
+	text-align: center;
 }
 
 .facts {
 	text-align: left;
 }
 
-.home img{
+.home img {
 	border: 5px double #666699;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 70%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 70%;
 }
+
 .nav {
-  width: 100%;
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  text-align: center;
+	width: 100%;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
 }
