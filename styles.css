@@ -2,7 +2,6 @@
 @import url('https://fonts.googleapis.com/css?family=Fira+Sans&display=swap');
 
 
-/*Different Elements */
 
 body {
   background-color: LightCyan;
@@ -23,16 +22,13 @@ h4 {
 p {
   color: black;
   font-family: "Bookman Old Style";
+  margin: 0.5%;
 }
 
 li {
 	font-family: 'Fira Sans', sans-serif;
 }
 
-
-
-
-/*Same elements */
 
 h1,
 h2,
@@ -46,8 +42,8 @@ img {
 	max-height: 75%;
 }
 
-p {
-	margin: 0.5%;
+em {
+	color: black;
 }
 
 
