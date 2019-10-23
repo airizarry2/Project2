@@ -70,8 +70,9 @@ nav {
   border: 1px;
   padding: 0px;
 	
-	
 }
+
+
 
 
 .facts {
@@ -84,6 +85,14 @@ nav {
     margin-left: auto;
     margin-right: auto;
     width: 70%;
+}
+
+.home nav {
+	text-align: center
+}
+
+.resume nav {
+ text-align: center	
 }
 .nav {
   width: 100%;
