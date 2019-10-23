@@ -62,12 +62,7 @@ nav {
    
 }
 
-.home {
-  position: absolute;
-  border: 1px;
-  padding: 0px;
-	
-}
+
 
 .facts {
 	text-align: left;
@@ -81,13 +76,8 @@ nav {
     width: 70%;
 }
 
-.home nav {
-	text-align: center
-}
 
-.resume nav {
- text-align: center	
-}
+
 .nav {
   width: 100%;
   list-style: none;
